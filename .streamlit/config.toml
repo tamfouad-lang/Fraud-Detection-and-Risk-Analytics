@@ -1,0 +1,4 @@
+# Make light theme default
+
+[theme]
+base="light"
